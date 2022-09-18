@@ -1193,6 +1193,11 @@ video {
   color: rgb(245 56 56 / var(--tw-text-opacity));
 }
 
+.hover\:shadow-brightOrange:hover {
+  --tw-shadow-color: #F53838;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
 @media (prefers-color-scheme: dark) {
   .dark\:border-gray-600 {
     --tw-border-opacity: 1;
