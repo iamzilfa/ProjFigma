@@ -9,6 +9,9 @@ module.exports = {
         GreyLight: '#DDDDDD',
         theLightGrey:'#F8F8F8',
         bodyColor:'#F6F6F6',
+        whiteback: "#ff0037",
+        textColor: "#0B132A",
+        capitalColor: "#4F5665"
       },
     },
   },
